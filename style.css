@@ -1,0 +1,38 @@
+.maindiv{
+    background-color: #f1e5d9;
+    height: 930px;
+    overflow: hidden;
+
+}
+
+.header{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+  text-align: center;  
+}
+.t{ 
+    text-decoration: none;
+    padding: 35px;
+    color: black;
+    font-size: 20px;
+}
+.img1{
+    height: 80px;
+}
+
+.roundpic{
+    height: 650px;
+    margin: 120px 0px 0px 120px;
+    
+}
+.meye{
+    height: 850px;
+    position: absolute;
+    
+    
+}
+.circle{
+    height: 800px;
+    margin: 15px 0px 0px 60px ;
+}
